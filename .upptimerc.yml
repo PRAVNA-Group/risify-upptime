@@ -23,6 +23,7 @@ status-website:
   name: Risify Uptime
   introTitle: "Risify uptime monitor powered by Upptime"
   introMessage: Monitor statusu infrastruktury Risify
+  theme: light
   navbar:
     - title: Status
       href: /
