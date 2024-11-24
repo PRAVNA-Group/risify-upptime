@@ -4,9 +4,9 @@
     "url": "https://panel.risify.pl",
     "icon": "https://icons.duckduckgo.com/ip3/panel.risify.pl.ico",
     "slug": "risify-app-pl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1025,
     "timeMonth": 1000,
     "timeYear": 986,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-24": 0
+    }
   },
   {
     "name": "Risify App [ES]",
@@ -42,12 +44,12 @@
     "slug": "risify-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 849,
-    "timeDay": 854,
+    "timeDay": 734,
     "timeWeek": 783,
     "timeMonth": 849,
     "timeYear": 849,
