@@ -10,11 +10,11 @@
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 968,
-    "timeDay": 693,
-    "timeWeek": 702,
-    "timeMonth": 974,
-    "timeYear": 968,
+    "time": 964,
+    "timeDay": 785,
+    "timeWeek": 717,
+    "timeMonth": 961,
+    "timeYear": 964,
     "dailyMinutesDown": {
       "2024-11-24": 6
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 948,
-    "timeDay": 758,
-    "timeWeek": 884,
-    "timeMonth": 968,
+    "timeDay": 920,
+    "timeWeek": 939,
+    "timeMonth": 965,
     "timeYear": 948,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 844,
-    "timeDay": 538,
-    "timeWeek": 771,
-    "timeMonth": 844,
-    "timeYear": 844,
+    "time": 842,
+    "timeDay": 744,
+    "timeWeek": 776,
+    "timeMonth": 843,
+    "timeYear": 842,
     "dailyMinutesDown": {
       "2024-11-23": 6
     }
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/documents.risify.pl.ico",
     "slug": "risify-documents",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 933,
-    "timeDay": 552,
-    "timeWeek": 771,
-    "timeMonth": 847,
-    "timeYear": 933,
+    "uptimeYear": "99.89%",
+    "time": 931,
+    "timeDay": 821,
+    "timeWeek": 808,
+    "timeMonth": 856,
+    "timeYear": 931,
     "dailyMinutesDown": {
       "2024-10-18": 74,
       "2024-10-17": 7
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 793,
-    "timeDay": 448,
-    "timeWeek": 677,
-    "timeMonth": 754,
-    "timeYear": 793,
+    "time": 792,
+    "timeDay": 771,
+    "timeWeek": 693,
+    "timeMonth": 760,
+    "timeYear": 792,
     "dailyMinutesDown": {}
   }
 ]
