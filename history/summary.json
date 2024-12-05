@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 981,
-    "timeDay": 1127,
-    "timeWeek": 1086,
-    "timeMonth": 989,
-    "timeYear": 981,
+    "time": 976,
+    "timeDay": 661,
+    "timeWeek": 1069,
+    "timeMonth": 992,
+    "timeYear": 976,
     "dailyMinutesDown": {
       "2024-11-24": 6
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 985,
-    "timeDay": 1278,
-    "timeWeek": 1256,
-    "timeMonth": 1008,
-    "timeYear": 985,
+    "time": 981,
+    "timeDay": 741,
+    "timeWeek": 1230,
+    "timeMonth": 1007,
+    "timeYear": 981,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 855,
-    "timeDay": 888,
-    "timeWeek": 939,
-    "timeMonth": 830,
-    "timeYear": 855,
+    "time": 851,
+    "timeDay": 648,
+    "timeWeek": 925,
+    "timeMonth": 837,
+    "timeYear": 851,
     "dailyMinutesDown": {
       "2024-11-23": 6
     }
@@ -62,18 +62,19 @@
     "url": "https://documents.risify.pl",
     "icon": "https://icons.duckduckgo.com/ip3/documents.risify.pl.ico",
     "slug": "risify-documents",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 926,
-    "timeDay": 738,
-    "timeWeek": 873,
-    "timeMonth": 859,
-    "timeYear": 926,
+    "time": 925,
+    "timeDay": 904,
+    "timeWeek": 888,
+    "timeMonth": 872,
+    "timeYear": 925,
     "dailyMinutesDown": {
+      "2024-12-05": 0,
       "2024-10-18": 74,
       "2024-10-17": 7
     }
@@ -89,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 805,
-    "timeDay": 712,
-    "timeWeek": 893,
-    "timeMonth": 765,
-    "timeYear": 805,
+    "time": 800,
+    "timeDay": 536,
+    "timeWeek": 859,
+    "timeMonth": 768,
+    "timeYear": 800,
     "dailyMinutesDown": {}
   }
 ]
