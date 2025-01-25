@@ -86,17 +86,17 @@
     "url": "https://assets.risify.pl/img/risify-logo-email-19092023.png",
     "icon": "https://icons.duckduckgo.com/ip3/assets.risify.pl.ico",
     "slug": "risify-assets",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 829,
-    "timeDay": 658,
-    "timeWeek": 724,
-    "timeMonth": 905,
-    "timeYear": 829,
+    "time": 827,
+    "timeDay": 615,
+    "timeWeek": 705,
+    "timeMonth": 894,
+    "timeYear": 827,
     "dailyMinutesDown": {}
   }
 ]
