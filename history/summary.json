@@ -4,10 +4,10 @@
     "url": "https://panel.risify.pl",
     "icon": "https://icons.duckduckgo.com/ip3/panel.risify.pl.ico",
     "slug": "risify-app-pl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 900,
@@ -16,6 +16,7 @@
     "timeMonth": 822,
     "timeYear": 900,
     "dailyMinutesDown": {
+      "2025-02-05": 2,
       "2025-01-03": 32,
       "2024-11-24": 6
     }
@@ -25,10 +26,10 @@
     "url": "https://app.risify.es",
     "icon": "https://icons.duckduckgo.com/ip3/app.risify.es.ico",
     "slug": "risify-app-es",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 942,
@@ -36,17 +37,19 @@
     "timeWeek": 993,
     "timeMonth": 893,
     "timeYear": 942,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-05": 2
+    }
   },
   {
     "name": "Risify API",
     "url": "https://api.panel.risify.pl/v1/test",
     "icon": "https://icons.duckduckgo.com/ip3/api.panel.risify.pl.ico",
     "slug": "risify-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 832,
@@ -55,6 +58,7 @@
     "timeMonth": 817,
     "timeYear": 832,
     "dailyMinutesDown": {
+      "2025-02-05": 1,
       "2025-01-03": 13,
       "2024-11-23": 6
     }
@@ -64,10 +68,10 @@
     "url": "https://documents.risify.pl",
     "icon": "https://icons.duckduckgo.com/ip3/documents.risify.pl.ico",
     "slug": "risify-documents",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 867,
@@ -76,6 +80,7 @@
     "timeMonth": 831,
     "timeYear": 867,
     "dailyMinutesDown": {
+      "2025-02-05": 1,
       "2024-12-05": 94,
       "2024-10-18": 74,
       "2024-10-17": 7
@@ -86,9 +91,9 @@
     "url": "https://assets.risify.pl/img/risify-logo-email-19092023.png",
     "icon": "https://icons.duckduckgo.com/ip3/assets.risify.pl.ico",
     "slug": "risify-assets",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -97,6 +102,8 @@
     "timeWeek": 688,
     "timeMonth": 872,
     "timeYear": 821,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-05": 0
+    }
   }
 ]
