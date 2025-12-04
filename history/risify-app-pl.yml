@@ -1,7 +1,7 @@
 url: https://panel.risify.pl
-status: up
-code: 200
-responseTime: 3106
-lastUpdated: 2025-12-03T23:19:24.763Z
+status: down
+code: 403
+responseTime: 1789
+lastUpdated: 2025-12-04T01:24:07.493Z
 startTime: 2024-10-09T09:38:38.449Z
 generator: Upptime <https://github.com/upptime/upptime>
