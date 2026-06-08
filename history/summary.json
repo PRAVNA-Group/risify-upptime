@@ -6,15 +6,15 @@
     "slug": "risify-app-pl",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "52.26%",
+    "uptimeDay": "77.59%",
     "uptimeWeek": "80.95%",
     "uptimeMonth": "95.40%",
     "uptimeYear": "99.23%",
-    "time": 1908,
-    "timeDay": 1664,
-    "timeWeek": 1714,
-    "timeMonth": 1948,
-    "timeYear": 1985,
+    "time": 1911,
+    "timeDay": 1674,
+    "timeWeek": 1717,
+    "timeMonth": 1930,
+    "timeYear": 1986,
     "dailyMinutesDown": {
       "2026-06-07": 563,
       "2026-06-06": 589,
@@ -66,8 +66,7 @@
       "2025-09-24": 50,
       "2025-07-22": 29,
       "2025-06-30": 21,
-      "2025-06-26": 19,
-      "2025-06-08": 34
+      "2025-06-26": 19
     }
   },
   {
@@ -77,14 +76,14 @@
     "slug": "risify-api",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "52.26%",
+    "uptimeDay": "77.59%",
     "uptimeWeek": "80.95%",
     "uptimeMonth": "95.40%",
     "uptimeYear": "99.23%",
-    "time": 980,
-    "timeDay": 983,
-    "timeWeek": 1009,
-    "timeMonth": 1011,
+    "time": 979,
+    "timeDay": 782,
+    "timeWeek": 1000,
+    "timeMonth": 1001,
     "timeYear": 1014,
     "dailyMinutesDown": {
       "2026-06-07": 563,
@@ -136,8 +135,7 @@
       "2025-09-25": 550,
       "2025-09-24": 49,
       "2025-07-22": 29,
-      "2025-06-26": 19,
-      "2025-06-08": 34
+      "2025-06-26": 19
     }
   },
   {
@@ -147,15 +145,15 @@
     "slug": "risify-documents",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "52.26%",
+    "uptimeDay": "77.59%",
     "uptimeWeek": "80.95%",
     "uptimeMonth": "95.40%",
     "uptimeYear": "99.24%",
     "time": 971,
-    "timeDay": 982,
-    "timeWeek": 1004,
+    "timeDay": 881,
+    "timeWeek": 996,
     "timeMonth": 992,
-    "timeYear": 991,
+    "timeYear": 990,
     "dailyMinutesDown": {
       "2026-06-07": 563,
       "2026-06-06": 589,
@@ -205,8 +203,7 @@
       "2025-09-25": 536,
       "2025-09-24": 49,
       "2025-07-22": 29,
-      "2025-06-26": 19,
-      "2025-06-08": 35
+      "2025-06-26": 19
     }
   },
   {
@@ -216,14 +213,14 @@
     "slug": "risify-assets",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "52.26%",
+    "uptimeDay": "77.59%",
     "uptimeWeek": "80.95%",
     "uptimeMonth": "95.40%",
     "uptimeYear": "99.24%",
-    "time": 883,
-    "timeDay": 999,
-    "timeWeek": 997,
-    "timeMonth": 992,
+    "time": 884,
+    "timeDay": 1017,
+    "timeWeek": 989,
+    "timeMonth": 978,
     "timeYear": 905,
     "dailyMinutesDown": {
       "2026-06-07": 563,
@@ -274,8 +271,7 @@
       "2025-09-25": 550,
       "2025-09-24": 48,
       "2025-07-22": 29,
-      "2025-06-26": 19,
-      "2025-06-08": 35
+      "2025-06-26": 19
     }
   }
 ]
